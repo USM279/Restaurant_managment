@@ -53,8 +53,9 @@ This is a Python-based GUI application for managing a restaurant's database. The
    python main_app.py
 
 
-**Database Tables
-**
+## Database Tables
+
+
 - The application works with the following tables:
 - Customer: Manages customer details.
 - Staff: Tracks restaurant staff details.
@@ -70,8 +71,8 @@ This is a Python-based GUI application for managing a restaurant's database. The
 - StaffActionLog: Logs staff activities.
 - StaffRole: Links staff members to their roles.
 
-**Usage
-**
+## Usage
+
 1. Select a Table: Use the dropdown menu to select a table.
 2. List Records: Click on the "List" button to view all records in the selected table.
 3. Add New Records:
@@ -86,19 +87,18 @@ This is a Python-based GUI application for managing a restaurant's database. The
 6. Search by ID:
    Enter an ID in the search bar and click "Search."
 
-**Screenshots 
-**
+## Screenshots 
 <img width="998" alt="Screenshot 2024-12-28 at 6 26 49 pm" src="https://github.com/user-attachments/assets/4ab226d6-a6e1-437d-a749-15c7e9ddcd17" />
 
 <img width="998" alt="Screenshot 2024-12-28 at 6 27 50 pm" src="https://github.com/user-attachments/assets/e078bc7e-8f34-47fa-86b9-80c7e7ca01e5" />
 
-**Future Improvements
-**
+## Future Improvements
+
+
 - Add user authentication for enhanced security.
 - Implement analytics and reporting features.
 - Enhance UI design for a better user experience.
 
-**Contributing
-**
+## Contributing
 Contributions are welcome! Please fork the repository and create a pull request for any new features or bug fixes.
 
